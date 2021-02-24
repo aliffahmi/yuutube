@@ -31,7 +31,7 @@
 - select mysql connector/j driver
 - select from the path (mysql connector that you download)
 - Config
-### Database: yuutube
+#### Database: yuutube
 - press next (if fail, it means xampp installation wasn't done correctly
 - Congratulations! You've successfully setup your database!
 ------------------------------------------------------------------------------------
