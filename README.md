@@ -62,8 +62,8 @@ The yuutube project will work now!
 
 This readme file is written by TEH KAI KEAT U2005485
 If cannot work feel free to whatsapp me (TEH 014-6693582)
-
-#### Project members
+-------------------------------------------------------------------------------
+### Contributors
 - Teh
 - Patricia
 - Shan Hong
