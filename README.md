@@ -8,12 +8,14 @@
 - yuutube.sql (SQL File)
 - videofile(the file that use to store all the videos)
 - Assignment Evaluation (Marking file)
+
 -----------------------------------------------------------------------------------------------
 ### Things to install before running this program
 - Netbean IDE 12.1
 - mysql-connector-java-8.0.22.jar
 - JDK 15
 - XAMPP latest version
+
 -----------------------------------------------------------------------------------------------
 ### Things to do after installing everything
 #### videofile
@@ -34,6 +36,7 @@
 #### Database: yuutube
 - press next (if fail, it means xampp installation wasn't done correctly
 - Congratulations! You've successfully setup your database!
+
 ------------------------------------------------------------------------------------
 #### If your JDK not version 15...
 - Go to download the JDK 15
@@ -62,6 +65,7 @@ The yuutube project will work now!
 
 This readme file is written by TEH KAI KEAT U2005485
 If cannot work feel free to whatsapp me (TEH 014-6693582)
+
 -------------------------------------------------------------------------------
 ### Contributors
 - Teh
